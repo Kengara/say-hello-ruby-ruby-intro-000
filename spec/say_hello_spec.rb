@@ -1,5 +1,4 @@
-def say_hello ( Hello Kent Beck, Hello Ruby Programmer)
-  puts say_hello
+def say_hello
 end
 
 require_relative './spec_helper'
